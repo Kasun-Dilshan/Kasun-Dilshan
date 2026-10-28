@@ -94,11 +94,28 @@ Developed custom systems to support business operations and improve workflow eff
   <img src="https://skillicons.dev/icons?i=java,cs,dart" alt="Programming Languages" />
 </p>
 
-### Development Tools
+
+### 🛠️ Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap" alt="Development Tools" />
+  <a href="https://cursor.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.cursor.com/assets/images/logo.svg" alt="Cursor" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="XAMPP" width="40" height="40"/>
+  </a>
 </p>
+
+**Cursor AI-Assisted Development**
 
 ---
 
