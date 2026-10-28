@@ -118,9 +118,7 @@ Developed custom systems to support business operations and improve workflow eff
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasun-dilshan&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasun-dilshan&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
